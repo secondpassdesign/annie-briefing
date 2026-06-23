@@ -1,6 +1,50 @@
 {
-  "uid": "briefing-2026-06-23-0700",
-  "updateDate": "2026-06-23T14:00:00.000Z",
+  "uid": "briefing-2026-06-23-H19",
+  "updateDate": "2026-06-23T19:19:59.000Z",
   "titleText": "Today's Briefing - Tuesday June 23",
-  "mainText": "Good morning, Kurt. It's Tuesday, June 23rd, 7 AM Pacific.\n\nWeather in Kenmore: currently 66 degrees and clear. High today 88, becoming overcast this afternoon. No rain expected.\n\nA heads up for Friday June 26th: 85 percent chance of thunderstorm, high only 64. Your Pack committee meeting is that evening, so bring an umbrella and jacket.\n\nCalendar highlights over the next week: Today at 7 to 8 AM, dance. Thursday June 25th at 1:15 PM, dance plus a test entry you should delete. Friday June 26th at 2:45 PM, Dylan has an appointment. That same evening at 7 PM, Pack committee at Kenmore City Hall. Saturday at 3 PM, a block party. And Monday June 29th, all-day cooking camp.\n\nThree calendar entries are flagged as suspicious: three test Taekwondo entries Thursday, Friday, and Saturday from 10 PM to 2:30 AM at Master Cho's Lynnwood. Four and a half hours at 10 PM is weird. Worth confirming they are real or deleting them.\n\nFour emails need attention. OpenAI sent your ChatGPT export started yesterday at 8:45 PM. The download link usually arrives within a few hours and unblocks your Substack backlog. Google sent a security alert and a verification code back to back at 8:42 PM yesterday. Worth a 30 second check on your Google account activity. Bank of America sent two credit alerts, both informational. And Discover flagged a new statement, routine.\n\nAlso flagged but no action needed: your Cologuard kit has shipped.\n\nTop three for today: First, check Gmail for the ChatGPT export download link. Second, decide how to continue the Outlook inbox drain given the tighter email budget. Third, the Pi 400 Substack outline is unblocked and ready to draft whenever you want.\n\nLLM spend yesterday was 3 dollars 70 cents. Today so far, 52 cents.\n\nDaily maintenance ran fine: Outlook junk-routing at 6 AM, and this briefing at 7 AM.\n\nHave a good one."
+  "mainText": "Good morning Kurt ,  Tue Jun 23, 7:00 AM PT briefing:
+
+
+Weather in Kenmore:
+Now: 66 degrees Fahrenheit clear. High today 88 degrees Fahrenheit, overcast by afternoon, dry. Commute fine, no rain expected.
+Heads up: Fri Jun 26 ,  85% chance of thunderstorm, high only 64 degrees Fahrenheit. Pack committee meeting is Fri evening ,  umbrella + jacket.
+
+
+Calendar highlights for the next week:
+Today Tue Jun 23, 7 to 8 AM: Dance (Kailey?)
+Thu Jun 25, 1:15 PM: Dance + a "Testing Sat" entry at the same time ,  likely a test event to delete
+Thu/Fri/Sat 10 PM to 2:30 AM: three "Testing Taekwondo" entries at Master Cho's Lynnwood ,  4.5 hrs at 10 PM is weird; probably test events. Worth confirming real vs. cleanup.
+Fri Jun 26, 2:45 PM: Dylan appointment (body says "Dylan appointment 2:45pm" ,  medical/dental?)
+Fri Jun 26, 7 to 8 PM: Pack committee meeting ,  Kenmore City Hall (scouts)
+Sat Jun 27, 3 PM: Block party (15 min ,  looks like start of something longer, double-check)
+Mon Jun 29, all-day: Cooking camp (Kailey?)
+
+
+Emails that need your attention:
+ OpenAI: "ChatGPT - Your data export has started" ,  sent yesterday 8:45 PM. This unblocks the Substack backlog (Lab Bench, Prioritizing, ESP32-S3, LVGL, About). Download link usually arrives in a few hours.
+ Google: "Security alert" + "Google Verification Code" yesterday 8:42 PM ,  back-to-back. Could be a sign-in you triggered, or someone else trying. Worth a 30-sec check on your Google account activity.
+Bank of America credit alerts (2) yesterday ,  credit balance increased + credit usage increased on one of your accounts. Informational; just confirms the monitoring is working.
+Discover Card: new statement online (flagged). Routine.
+
+
+Top three for today:
+Check Gmail for the ChatGPT export download link (it'll come from OpenAI; check spam too). Once you have it, drop the ZIP and I'll list the conversation titles so you can pick which to import.
+Decide on the Outlook drain continuation: <$0.25/day email budget means the v3 drain (52,200 queued IDs + 34,613 headers-with-no-move) needs a new plan. Options: (a) throttle to 1-2 batches/day, (b) pause until weekend, (c) just delete in bulk via Graph batch (no LLM cost ,  pure API).
+One unblocked Substack win: Pi 400 + Pop!_OS outline. Source material already saved ,  I can draft an outline today, fully independent of the export. Easy momentum hit.
+
+
+Personal dates coming up:
+Nothing in the Jun 23 to Jun 30 window (no birthdays, no anniversaries). Dylan's 10th is Jul 26, Tricia's bday Sep 21 ,  both still ~1 month out, reminder engines already configured.
+
+
+LLM spend
+Yesterday (Jun 22): $3.70
+Today (Jun 23): $0.52 so far
+
+
+DAILY MAINTENANCE: Outlook junk-route job ran ok at 6 AM. Briefing job ran ok at 7 AM (this one).
+
+
+Have a good one.
+,  Annie"
 }
